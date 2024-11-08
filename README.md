@@ -1,2 +1,2 @@
-# DataScience_Class1
-My Teaching Tutorial on Data Science
+# DataScience_Class
+My Data Science Classes
