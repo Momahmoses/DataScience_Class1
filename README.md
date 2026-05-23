@@ -1,6 +1,6 @@
 # Data Science Learning Journey
 
-A structured 24-day hands-on data science learning programme covering the full spectrum from Python fundamentals to machine learning — built through daily exercises, real-world datasets, and progressive projects.
+A structured 24-day hands-on data science learning programme covering the full spectrum from Python fundamentals to machine learning, built through daily exercises, real-world datasets, and progressive projects.
 
 ---
 
@@ -8,7 +8,7 @@ A structured 24-day hands-on data science learning programme covering the full s
 
 | Day | Topic | Notebook |
 |-----|-------|----------|
-| 2 | Python Fundamentals — conditionals, loops, functions | `DAY2_ASSIGNMENT.ipynb` |
+| 2 | Python Fundamentals, conditionals, loops, functions | `DAY2_ASSIGNMENT.ipynb` |
 | 3 | Python Practice | `DAY3.ipynb` |
 | 6 | Python Intermediate | `DAY6.ipynb` |
 | 7 | Python Advanced | `DAY7.ipynb` |
@@ -20,11 +20,11 @@ A structured 24-day hands-on data science learning programme covering the full s
 | 15 | Data Visualisation (Matplotlib, Seaborn, Plotly) | `DataVisualizationDay15.ipynb` |
 | 16 | Advanced Visualisation with Excel Integration | `day16.ipynb` |
 | 22 | Tableau Visualisation | `day22 tableau visualization class.twb` |
-| 23 | Linear Regression — House Price Prediction | `LINEAR_REGRESSIONDAY23.ipynb` |
-| 24 | Classification — Credit Customer Prediction | `classificationDay24.ipynb` |
-| — | Natural Language Processing & Sentiment Analysis | `NATURAL_LANG_PROCESSOR.ipynb` |
-| — | Unsupervised ML — K-Means Clustering | `unsupervied_machine_learning.ipynb` |
-| — | Practice Exercises | `PRACTICE.ipynb` |
+| 23 | Linear Regression, House Price Prediction | `LINEAR_REGRESSIONDAY23.ipynb` |
+| 24 | Classification, Credit Customer Prediction | `classificationDay24.ipynb` |
+|, | Natural Language Processing & Sentiment Analysis | `NATURAL_LANG_PROCESSOR.ipynb` |
+|, | Unsupervised ML, K-Means Clustering | `unsupervied_machine_learning.ipynb` |
+|, | Practice Exercises | `PRACTICE.ipynb` |
 
 ---
 
@@ -67,4 +67,4 @@ jupyter notebook
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist | [GitHub](https://github.com/Momahmoses)
+**Momah Moses**, Geospatial AI Engineer & Data Scientist | [GitHub](https://github.com/Momahmoses)
